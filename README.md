@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Project 2: Airline Passenger Satisfaction Analysis
 
